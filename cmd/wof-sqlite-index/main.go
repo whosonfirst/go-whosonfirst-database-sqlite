@@ -3,12 +3,14 @@ package main
 import (
 	"context"
 	"log"
-	
-	"github.com/whosonfirst/go-whosonfirst-database-sqlite/app/index"
+
+	_ "github.com/whosonfirst/go-whosonfirst-database-sqlite"
+
+	"github.com/whosonfirst/go-whosonfirst-database/app/sql/tables/index"
 )
 
 func main() {
-	
+
 	ctx := context.Background()
 	err := index.Run(ctx)
 

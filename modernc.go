@@ -1,6 +1,6 @@
 //go:build modernc
 
-package index
+package sqlite
 
 import (
 	_ "modernc.org/sqlite"

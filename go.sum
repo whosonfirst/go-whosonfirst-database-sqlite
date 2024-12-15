@@ -46,8 +46,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
-github.com/sfomuseum/go-database v0.0.7 h1:+eeWhkMMLQ32hNdXCJiINsWS7EEhqmrTFPNEH93lwTg=
-github.com/sfomuseum/go-database v0.0.7/go.mod h1:c1oZwb0M0aYSI48SgE8b5iIrGrLFA8eJFk46E5g4JOM=
+github.com/sfomuseum/go-database v0.0.10 h1:r6jogMcmELDsc+bngW1vrRWz5mEDegogcVq5t4DtFtE=
+github.com/sfomuseum/go-database v0.0.10/go.mod h1:c1oZwb0M0aYSI48SgE8b5iIrGrLFA8eJFk46E5g4JOM=
 github.com/sfomuseum/go-edtf v1.1.1 h1:R5gElndHGDaK/rGSh2X+ulaLtlcHCdQA1cTzB8e9wv8=
 github.com/sfomuseum/go-edtf v1.1.1/go.mod h1:1rP0EJZ/84j3HO80vGcnG2T9MFBDAFyTNtjrr8cv3T4=
 github.com/sfomuseum/go-flags v0.10.0 h1:1OC1ACxpWMsl3XQ9OeNVMQj7Zi2CzufP3Rym3mPI8HU=
@@ -73,8 +73,8 @@ github.com/whosonfirst/go-rfc-5646 v0.1.0 h1:HNFPAem6v5De61PXLgbGzx9tfNOP83AAkVv
 github.com/whosonfirst/go-rfc-5646 v0.1.0/go.mod h1:JZj//FV9YeV3fkyOY/82V53EMLQXwRwNPuQIGs8BUmo=
 github.com/whosonfirst/go-whosonfirst-crawl v0.2.2 h1:7nwpNV/BFoPR0R7KMMy1iiYAer7wlHJBUOiL+NLzIFs=
 github.com/whosonfirst/go-whosonfirst-crawl v0.2.2/go.mod h1:2GZkaK9jaOisWRnBQGWzmb7H55TUFl9y9F30lrk2hwk=
-github.com/whosonfirst/go-whosonfirst-database v0.0.2 h1:LDWTgrT8A+BD+cvw2rjzg4mfkimmBSKAqwwSj7y7IJM=
-github.com/whosonfirst/go-whosonfirst-database v0.0.2/go.mod h1:wguz5cQeZjm+0FvmOcYMV6eFx085f1NQO3gPYq654ME=
+github.com/whosonfirst/go-whosonfirst-database v0.0.7 h1:yOPTrhhhcgWxHhvUfXmKBxQu5tO3l4lmEJr6w9t7ARI=
+github.com/whosonfirst/go-whosonfirst-database v0.0.7/go.mod h1:00U9I4jFD7ob2lxV1sL6TN0rME+4GxXcQssZR9WYnPs=
 github.com/whosonfirst/go-whosonfirst-feature v0.0.28 h1:XCNNzjnk1i50UnqrNtrN9xNvJDwZGjsPHbb3HRPixXA=
 github.com/whosonfirst/go-whosonfirst-feature v0.0.28/go.mod h1:8kc2Ei7mCankyWQcfzLHdKAc1//B/ptY7uEFsT5I8m4=
 github.com/whosonfirst/go-whosonfirst-flags v0.5.1 h1:kRzXK7WZlEK1hNw+CECEdnWNtEDbWbjWdEg0imu1mGE=

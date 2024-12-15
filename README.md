@@ -87,6 +87,8 @@ $> ./bin/wof-sqlite-index -h
     	Enable verbose (debug) logging
 ```
 
+For example:
+
 ```
 $> ./bin/wof-sqlite-index \
 	-database-uri 'sql://sqlite3?dsn=test.db' \
