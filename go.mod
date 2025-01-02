@@ -5,11 +5,12 @@ go 1.23.3
 require (
 	github.com/mattn/go-sqlite3 v1.14.24
 	github.com/whosonfirst/go-whosonfirst-database v0.0.7
+	github.com/whosonfirst/go-whosonfirst-iterate-sql/v2 v2.0.0
 	modernc.org/sqlite v1.34.2
 )
 
 require (
-	github.com/aaronland/go-json-query v0.1.4 // indirect
+	github.com/aaronland/go-json-query v0.1.5 // indirect
 	github.com/aaronland/go-roster v1.0.0 // indirect
 	github.com/dominikbraun/graph v0.23.0 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
@@ -34,7 +35,7 @@ require (
 	github.com/whosonfirst/go-whosonfirst-crawl v0.2.2 // indirect
 	github.com/whosonfirst/go-whosonfirst-feature v0.0.28 // indirect
 	github.com/whosonfirst/go-whosonfirst-flags v0.5.1 // indirect
-	github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.3.4 // indirect
+	github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.5.0 // indirect
 	github.com/whosonfirst/go-whosonfirst-names v0.1.0 // indirect
 	github.com/whosonfirst/go-whosonfirst-placetypes v0.7.2 // indirect
 	github.com/whosonfirst/go-whosonfirst-sources v0.1.0 // indirect

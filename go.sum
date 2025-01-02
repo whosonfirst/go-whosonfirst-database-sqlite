@@ -1,5 +1,5 @@
-github.com/aaronland/go-json-query v0.1.4 h1:iM5GkF0VDsOeVgp0/WrDaFUB64ubJvmm+TZ0H4OQxxM=
-github.com/aaronland/go-json-query v0.1.4/go.mod h1:S7V5eQko+XDPq+dfdSYub5mZI0VapVgUH2NLG0buZr4=
+github.com/aaronland/go-json-query v0.1.5 h1:fSNnOKrNmQzw86Ih6L+xlL4hmJuiEK17HXo9rArYC4o=
+github.com/aaronland/go-json-query v0.1.5/go.mod h1:MoyWsbG6fkcX0nXIg2ELGdNMcmLOFv+Xr+29xgr/RdU=
 github.com/aaronland/go-roster v1.0.0 h1:FRDGrTqsYySKjWnAhbBGXyeGlI/o5/t9FZYCbUmyQtI=
 github.com/aaronland/go-roster v1.0.0/go.mod h1:KIsYZgrJlAsyb9LsXSCvlqvbcCBVjCSqcQiZx42i9ro=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -79,8 +79,10 @@ github.com/whosonfirst/go-whosonfirst-feature v0.0.28 h1:XCNNzjnk1i50UnqrNtrN9xN
 github.com/whosonfirst/go-whosonfirst-feature v0.0.28/go.mod h1:8kc2Ei7mCankyWQcfzLHdKAc1//B/ptY7uEFsT5I8m4=
 github.com/whosonfirst/go-whosonfirst-flags v0.5.1 h1:kRzXK7WZlEK1hNw+CECEdnWNtEDbWbjWdEg0imu1mGE=
 github.com/whosonfirst/go-whosonfirst-flags v0.5.1/go.mod h1:VgXcWNtsCZGy/Xnt9bpSUTKJ3nYeqXqvLD3NrE6kzZg=
-github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.3.4 h1:fEhr0jwqxXvG7Nb7id4Q26ucdBZD51TcFNIiU+VNopM=
-github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.3.4/go.mod h1:kDIvHxJTo6XgFKmLHliGLxlqeeHhxuYtdeVZBAcP68g=
+github.com/whosonfirst/go-whosonfirst-iterate-sql/v2 v2.0.0 h1:AgamPy21CIlUK2NN51KcoKYGq/6lcroSdnGSkp58QLw=
+github.com/whosonfirst/go-whosonfirst-iterate-sql/v2 v2.0.0/go.mod h1:nckGaEE7EnNdkT5f2b4dPoIZITzkR0ZuQDAX1e0KMBw=
+github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.5.0 h1:aLThv46NCuScTnulbsgmKPZiCqnv7UH8X4ojO2151KI=
+github.com/whosonfirst/go-whosonfirst-iterate/v2 v2.5.0/go.mod h1:wF/nVhSEVJdkWd24+TcXb5Pir92WDUqRa9oLu/qf9N4=
 github.com/whosonfirst/go-whosonfirst-names v0.1.0 h1:uXop/DwQqH60uDBZvHCPg1yRSQLScbm6VZyqcaED2KE=
 github.com/whosonfirst/go-whosonfirst-names v0.1.0/go.mod h1:0z86/nedM9T/5C8cAdbCMfRuBrkc33oEQ6vdJ6WybSg=
 github.com/whosonfirst/go-whosonfirst-placetypes v0.7.2 h1:o781pAQUuSg1irAATgvG0uUSLtvJl9tOY1HW85aePtM=
