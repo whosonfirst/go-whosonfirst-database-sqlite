@@ -12,3 +12,10 @@ spelunker:
 		-timings \
 		-spelunker-tables \
 		$(SOURCE)
+
+spatial:
+	./bin/wof-sqlite-index \
+		-database-uri 'sql://sqlite3?dsn=$(TARGET)' \
+		-timings \
+		-spatial-tables \
+		$(SOURCE)
