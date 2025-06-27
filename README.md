@@ -108,7 +108,8 @@ $> ./bin/wof-sqlite-index \
 
 ## See also
 
-* https://github.com/whosonfirst/go-whosonfirst-database/
-* https://github.com/sfomuseum/go-database/
+* https://github.com/whosonfirst/go-whosonfirst-database
+* https://github.com/whosonfirst/go-whosonfirst-iterate-sql
+* https://github.com/sfomuseum/go-database
 * https://github.com/mattn/go-sqlite3
 * https://pkg.go.dev/modernc.org/sqlite
