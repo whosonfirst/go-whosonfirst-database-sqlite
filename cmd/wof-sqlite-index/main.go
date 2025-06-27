@@ -5,8 +5,7 @@ import (
 	"log"
 
 	_ "github.com/whosonfirst/go-whosonfirst-database-sqlite"
-	_ "github.com/whosonfirst/go-whosonfirst-iterate-sql/v2"
-	_ "github.com/mattn/go-sqlite3"
+	_ "github.com/whosonfirst/go-whosonfirst-iterate-sql/v3"
 	
 	"github.com/whosonfirst/go-whosonfirst-database/app/sql/tables/index"
 )
