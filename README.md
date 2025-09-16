@@ -2,6 +2,10 @@
 
 Go package providing tools for indexing Who's On First records in SQLite databases.
 
+## Deprecated
+
+This package has been deprecated and is no longer maintained. Its functionality has been merged in the [whosonfirst/go-whosonfirst-database](https://github.com/whosonfirst/go-whosonfirst-database/) package.
+
 ## Documentation
 
 Documentation is incomplete at this time.
